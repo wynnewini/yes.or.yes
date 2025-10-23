@@ -1,0 +1,12 @@
+body {
+background: #FFF3B0;
+background: linear-gradient(134deg, rgb(245, 237, 197) 50%, rgb(136, 128, 94) 100%);
+}
+.kedua {color: rgb(255, 255, 255);}
+ p {
+    background-color: #6a6130;
+    height: 90px;
+    width: 230px;
+    padding: 20px;
+    margin: 20px;
+ }
