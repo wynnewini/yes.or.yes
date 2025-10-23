@@ -30,6 +30,11 @@ nav .nah-link img {
   border-radius: 5px;
   box-sizing: border-box;
 }
+nav .poster img {
+  max-width: 180px;
+  height: auto;
+  border-radius: 10px;
+}
 
 nav ul {
   display: flex;
@@ -153,11 +158,6 @@ ul li, ol li {
     align-items: center;
   }
 
-nav .poster img {
-  max-width: 180px;
-  height: auto;
-  border-radius: 10px;
-}
 
   main {
     padding: 1rem;
